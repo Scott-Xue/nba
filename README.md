@@ -4,3 +4,5 @@ Every season in the NBA, players move teams, get traded, retire, get cut, etc. T
 
 ## Data
 The primary data im using is from stats.nba.com through the nba_api library. It would be interesting to consider using external data sources such as media reports and social media chatter, but for now that is out of scope.
+    - NBA seasons 1997-98 to 2020-21
+    - 
